@@ -4,7 +4,7 @@ A beautiful kick-start template for my RLAST (Rust, Leptos, Axum, SQLite, Tailwi
 ## Technologies Used
 - Language: Rust 🦀
 - Framework: Leptos
-- Backend: Axum
-- Database: SQLite
-- Styling: Tailwindcss + DaisyUI
+- Backend: Axum + Axum Session Auth + Rustls
+- Database: SQLite + Sqlx
+- Styling: Tailwindcss + DaisyUI + Leptos Icons
 - Tools: Nix package manager (flake)
