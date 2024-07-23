@@ -1,8 +1,9 @@
 [package]
 name = "rlast-web-template"
 version = "0.0.0"
-edition = "2021"
 description = "A beautiful kick-start template for the RLAST (Rust, Leptos, Axum, SQLite, Tailwind) tech stack"
+authors = ["DaraJKong"]
+edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
